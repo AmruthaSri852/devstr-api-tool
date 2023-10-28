@@ -1,4 +1,10 @@
 export let tools = {
+    'api-tool': {
+        name: 'Online API Tool',
+        icon: '',
+        link: '/api-tool',
+        description: "Our Online API Tool is a versatile and user-friendly platform designed to simplify the process of working with APIs. Just like Postman, it provides developers and teams with powerful features for testing, documenting, and managing APIs. Whether you're building, testing, or monitoring APIs, our tool offers a comprehensive suite of tools to streamline your workflow. With an intuitive interface, collaboration features, and extensive customization options, it's the ideal choice for any development project. Elevate your API development and management experience with our Online API Tool and unlock the full potential of your APIs."
+    }
     'neumorphism-generator': {
         name: 'Neumorphism Generator',
         icon: 'layer-group',
